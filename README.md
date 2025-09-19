@@ -93,6 +93,12 @@ If you encounter any issues:
 
 ## Changelog
 
+### Version 1.1.0
+- **Enhanced testing capabilities** - Restored full test functionality when WP_DEBUG is enabled
+- **Admin test interface** - Added "Test GC Fix" page under Tools menu for easy testing
+- **Improved debugging** - Test function shows before/after comparison of datetime structure
+- **Better development experience** - Comprehensive test suite for verifying fix functionality
+
 ### Version 1.0.0
 - Initial release
 - Fixes Google Calendar datetime structure issue
